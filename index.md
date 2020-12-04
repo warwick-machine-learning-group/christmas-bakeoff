@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## WMLG's Christmas Challenge
 
 You can use the [editor on GitHub](https://github.com/warwick-machine-learning-group/christmas-bakeoff/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
